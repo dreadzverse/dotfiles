@@ -1,0 +1,13 @@
+general.import = [ "./theme.toml" ]
+
+[font]
+bold = { family = "Iosevka Nerd Font", style = "Bold" }
+italic = { family = "Iosevka Nerd Font", style = "Italic" }
+normal = { family = "Iosevka Nerd Font", style = "Normal" }
+size = 12
+
+[window]
+decorations = "None"
+opacity = 1
+padding.x = 8
+padding.y = 8

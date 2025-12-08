@@ -1,0 +1,19 @@
+height=120
+width=420
+
+outer-margin=8
+padding=8
+
+background-color=#24273a
+border-color=#c6d0f5
+text-color=#cad3f5
+
+font=Iosevka Nerd Font 10
+
+border-size=1
+
+anchor=top-right
+
+max-icon-size=32
+
+default-timeout=5000
