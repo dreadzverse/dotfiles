@@ -48,7 +48,7 @@ return {
         "biome",
         "black",
         "clang-format",
-        "prettier",
+        "prettierd",
         "prettypst",
         "rustywind",
         "shfmt",
