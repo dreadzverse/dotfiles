@@ -38,6 +38,7 @@ return {
         jsonls = true,
         lua_ls = true,
         shellcheck = true,
+        svelte = true,
         tailwindcss = true,
         tinymist = true,
         ts_ls = true,
