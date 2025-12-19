@@ -22,6 +22,7 @@ vim.opt.smartindent = true
 vim.opt.termguicolors = true
 vim.opt.updatetime = 500
 vim.opt.wrap = false
+vim.opt.winborder = "single"
 
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
