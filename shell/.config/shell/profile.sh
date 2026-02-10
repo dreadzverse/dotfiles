@@ -57,6 +57,5 @@ if [ "$WM" = "Hyprland" ]; then
     export GDK_SCALE=1
     export HYPRCURSOR_SIZE=24
     export XCURSOR_SIZE=24
+    [ "$(tty)" = /dev/tty1 ] && start-hyprland
 fi
-
-[ "$(tty)" = /dev/tty1 ] && "$WM"
