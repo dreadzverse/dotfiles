@@ -50,10 +50,10 @@ return {
         "black",
         "clang-format",
         "prettierd",
-        "prettypst",
         "rustywind",
         "shfmt",
         "stylua",
+        "typstyle",
       })
 
       require("mason-tool-installer").setup({ ensure_installed = ensure_installed })
